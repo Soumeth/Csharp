@@ -1,0 +1,19 @@
+﻿################################################################################
+# Ce fichier .gitignore a été automatiquement créé par Microsoft(R) Visual Studio.
+################################################################################
+
+/BlazorApp1/.vs
+/BlazorApp1/BlazorApp1/bin/Debug/net9.0
+/BlazorApp1/BlazorApp1/obj
+/Bulky/.vs
+/Bulky/BulkyWeb/bin/Debug/net8.0
+/formationapp/.vs
+/formationapp/bin/Debug/net9.0
+/formationapp/obj
+/pizza_mama/.vs
+/pizza_mama/pizza_mama/bin/Debug/net6.0
+/pizza_mama/pizza_mama/obj
+/ProjetPizza/.vs
+/ProjetPizza/ProjetPizza/bin/Debug/net9.0
+/ProjetPizza/ProjetPizza/obj
+/RazorPagesMovie/.vs
